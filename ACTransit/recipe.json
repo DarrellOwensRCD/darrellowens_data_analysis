@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "layers": {
+    "18_Week_Boards": {
+      "source": "mapbox://tileset-source/idothethinking/ACTweek-18",
+      "minzoom": 0,
+      "maxzoom": 16
+    }
+  }
+}
